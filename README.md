@@ -1,2 +1,2 @@
-# Py-Assignments
+# Assignments
 Learning Python from scratch 
