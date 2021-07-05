@@ -1,2 +1,1 @@
-# Assignments
-Learning Python from scratch 
+Experimenting 
